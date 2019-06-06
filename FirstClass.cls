@@ -1,5 +1,5 @@
 public class FirstClass{
     public void firstMethod(){
-        System.debug('firstMethod 4444');
+        System.debug('firstMethod 6666');
     }
 }
